@@ -1,3 +1,3 @@
-![Banner](banner.png)
+![Banner](https://github.com/skyridertk/skyridertk/banner.png)
 
 
