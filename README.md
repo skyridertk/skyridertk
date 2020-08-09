@@ -1,3 +1,4 @@
-![Banner](./banner.png?raw=true "Title")
+<img src="banner.png" alt="My cool logo"/>
+
 
 
